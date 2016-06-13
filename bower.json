@@ -6,7 +6,7 @@
     "Sujip Thapa > sudiptpa@gmail.com>"
   ],
   "description": "jQuery UI Sortable Standalone",
-  "main": ["./ui-sortable.min.js","./ui-sortable.js"],
+  "main": ["./ui-sortable.js"],
   "keywords": [
     "jQuery",
     "UI",
