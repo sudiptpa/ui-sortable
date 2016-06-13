@@ -1,0 +1,29 @@
+{
+  "name": "ui-sortable",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sudiptpa/ui-sortable",
+  "authors": [
+    "Sujip Thapa > sudiptpa@gmail.com>"
+  ],
+  "description": "jQuery UI Sortable Standalone",
+  "main": ["./ui-sortable.min.js","./ui-sortable.js"],
+  "keywords": [
+    "jQuery",
+    "UI",
+    "Standalone",
+    "Sortable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".gitignore",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/sudiptpa/ui-sortable.git"
+},
+"private" : false
+}
