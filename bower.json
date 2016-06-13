@@ -7,9 +7,6 @@
   ],
   "description": "This package only contains only jquery-ui sortable component",
   "main": "./dist/ui-sortable.js",
-  "devDependencies": {
-    "jquery-ui": "~1.11.4"
-  },
   "keywords": [
     "jquery",
     "jquery-ui",
